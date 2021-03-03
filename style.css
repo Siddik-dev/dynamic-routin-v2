@@ -15,11 +15,11 @@ body{
 
 @font-face {
   font-family: 'RobotoMono-Regular';
-  src:  url('/fonts/RobotoMono-Regular.ttf')
+  src:  url('fonts/RobotoMono-Regular.ttf')
 }
 @font-face {
   font-family: 'RobotoMono-Bold';
-  src:  url('/fonts/RobotoMono-Bold.ttf')
+  src:  url('fonts/RobotoMono-Bold.ttf')
 }
     
 /* buttons */
@@ -90,7 +90,7 @@ a{
     height: 200px;
     object-fit: cover;
     background-position: bottom;
-    background: url("/photos/seamless\ patter\ \(ready\ to\ launch\).png");
+    background: url("photos/seamless\ patter\ \(ready\ to\ launch\).png");
     background-repeat: no-repeat;
     box-shadow: 0 8px 6px -6px black;
 
